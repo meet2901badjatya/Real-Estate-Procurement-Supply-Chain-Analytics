@@ -1,0 +1,19 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+venv/
+ENV/
+build/
+dist/
+*.egg-info/
+
+# Generated intermediate files
+cleaned_purchase_data.csv
+
+# OS files
+.DS_Store
+Thumbs.db
